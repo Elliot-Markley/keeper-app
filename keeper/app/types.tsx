@@ -1,4 +1,4 @@
-export type card = {
+export type TCard = {
   name: string;
   img: string;
   tel: string;
